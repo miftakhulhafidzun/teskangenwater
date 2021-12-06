@@ -1,2 +1,2 @@
-# SistemInformasiPenjualanOnlineIslamicStore
-Sistem Informasi Penjualan Online pada Islami Store
+# Sistem Toko Kangen Water
+penjualan toko online berbasis web
